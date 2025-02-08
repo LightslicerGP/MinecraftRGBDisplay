@@ -16,6 +16,6 @@ I *have* used this display tech in minecraft, and it works [best on bedrock with
 - the simulated image does NOT account for the gaps between pixels, so itll always look brighter than the 3x3 and 6x6 versions of the image. (I might add another version that includes the border, but in the end itll be the same size as the 3x3 or 6x6 versions)
 - there is a schem file that you can run, but it might be flipped when you paste in the schematic, also **PLEASE** change the directory because it works for me but it might not work for you!
 
-Testing image to get a feel of how it would work and look:
+this is the original testing image to get a feel of how it would work and look:
 
 ![RGB Minecraft Color](./rgb_minecraft_concept.png)
